@@ -1,16 +1,32 @@
-# untitled18
+# Beyin Avı Oyunu (Brain Hunt Game)
 
-A new Flutter project.
+Flutter ile geliştirilmiş eğlenceli bir çok oyunculu bilgi tahmin oyunudur. Oyuncular, ekrandaki ünlü isimleri doğru tahmin etmeye çalışır. Her tur sonunda puanlar toplanır ve kazanan belirlenir.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- Oyuncu ekleme desteği (2+ kişi)
+- Ünlü isimlerden oluşan kelime listesi
+- Tur bazlı oyun mantığı
+- Sonuç ekranı ve skorlar
+- Mobil uyumlu modern arayüz
+- Hile engelleyici kontrollü yapı
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Nasıl Oynanır?
+
+1. Oyuncu isimlerini girin.
+2. Her oyuncu sırayla ünlü kişiyi tahmin etmeye çalışır.
+3. Doğru tahmin eden puan kazanır.
+4. Oyun sonunda en yüksek puanı alan kazanır.
+
+---
+
+## Geri Bildirim / İletişim
+
+Her türlü geri bildirim veya öneri için:
+
+E-posta: [sahinaliriza888@gmail.com](mailto:sahinaliriza888@gmail.com)  
+GitHub: [github.com/aliriza5382](https://github.com/aliriza5382)
