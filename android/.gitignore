@@ -1,0 +1,10 @@
+echo ".dart_tool/
+.packages
+build/
+.idea/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+ios/Flutter/Flutter.framework
+" > .gitignore
